@@ -4,7 +4,7 @@ Database dump of historical scrapes from production (makes test database):
 - test_scrape_correct (chosen correct business)
 - test_scrape_geo (user selected by geo map. Address is accurate)
 - test_scrape_manual (user entered address)
-_ test_scrape_matches #1 and #2 (scrapes done for businesses)
+- test_scrape_matches #1 and #2 (scrapes done for businesses)
 
 Due to github 100Mb limit the scrape_manual table is split into two files.
 
