@@ -1,5 +1,5 @@
 
-# SCRAPE-HISTORY
+# SCRAPES-HISTORY
 Database dump of historical scrapes from production (makes test database):
 - test_scrape_correct (chosen correct business)
 - test_scrape_geo (user selected by geo map. Address is accurate)
